@@ -47,21 +47,7 @@ Preparing and delivering a full Embedded Systems Diploma curriculum — covering
 
 ---
 
-## 🚀 Projects
 
-| Project | Tech Stack | Highlights |
-|---------|-----------|------------|
-| 🚗 [Vehicle Fault Detection & Logging System](https://github.com/MohamedBaleegh/vfdls-atmega32) | ATmega32 ×2 · UART · I2C · EEPROM · ADC · ICU · PWM | Dual-ECU automotive diagnostic system with persistent DTC logging — flagship project |
-| 🏠 [Smart Home Automation](https://github.com/MohamedBaleegh/smart-home-atmega32) | ATmega32 · PWM · ADC · 9 drivers | Full 9-driver layered architecture — temp/LDR/flame/motor/LCD |
-| 🅿️ [Car Parking Sensor](https://github.com/MohamedBaleegh/car-parking-sensor) | ATmega32 · ICU · HC-SR04 | ICU-based SONAR distance measurement, progressive LED alerts |
-| 📡 [Modern Morse Code System](https://github.com/MohamedBaleegh/morse-code-arduino) | Arduino · NRF24L01+ · FSK | Bidirectional wireless Morse comm via FSK — coded RF driver and optimized for dual MCU |
-| 🚒 [Autonomous Firefighting Robot](https://github.com/MohamedBaleegh/fire-fighting-car) | Arduino · Bluetooth · Flame sensors | Flame direction detection, servo-controlled nozzle, Bluetooth remote |
-| ⏱️ [Dual-Mode Stopwatch](https://github.com/MohamedBaleegh/dual-mode-stopwatch) | ATmega32 · Timer1 CTC · Interrupts | Count-up/countdown with multiplexed 7-segment, external interrupts |
-| 🤖 [Maze Solving Robot](https://github.com/MohamedBaleegh) | Arduino · HC-SR04 | Left-Hand Rule algorithm, real-time ultrasonic-based path navigation |
-| 🥊 [Sumo Fighting Robot](https://github.com/MohamedBaleegh) | Competitive robotics | Inter-university engineering competition participant |
-| 💪 [ARM Cortex-M Drivers](https://github.com/MohamedBaleegh) | ARM Cortex-M · C | SysTick & NVIC bare-metal driver development |
-
----
 
 ## 📚 Currently Learning · 2026
 
@@ -72,7 +58,6 @@ DevOps & Infra          → Docker, Git advanced workflows
 AI & ML Infrastructure  → Intro to ML · NLP & Transformers · Fine-Tuning LLMs
 AI Tools                → Claude Code · n8n · MCP · Agents
 ```
-
 
 ---
 
