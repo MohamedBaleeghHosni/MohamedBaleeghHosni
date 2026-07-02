@@ -73,14 +73,6 @@ AI & ML Infrastructure  → Intro to ML · NLP & Transformers · Fine-Tuning LLM
 AI Tools                → Claude Code · n8n · MCP · Agents
 ```
 
----
-
-## 🤝 Volunteering
-
-- **Student Union — Scientific Committee Member** · Bani Suef University · Sep 2022 – Present
-- **Class Representative & Student Leader** · Bani Suef University · Sep 2024 – Present
-- **Shabab Kheir Association** · Community Service · May 2019 – Oct 2024
-
 
 ---
 
